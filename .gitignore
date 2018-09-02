@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+venv
+db.sqlite3
+db.djlocal
+.DS_Store
+.idea
+django_and_react/local_settings.py
