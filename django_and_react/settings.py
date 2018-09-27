@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     # Personal apps
     'posts',
+    'frontend',
 ]
 
 MIDDLEWARE = [

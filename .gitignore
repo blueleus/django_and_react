@@ -6,3 +6,4 @@ db.djlocal
 .DS_Store
 .idea
 django_and_react/local_settings.py
+node_modules

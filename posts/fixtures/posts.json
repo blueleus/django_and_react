@@ -1,0 +1,9 @@
+[
+    {
+        "model": "posts.post",
+        "fields": {
+            "title": "I am looking for a Javascript mentor",
+            "text": "I am looking for a Javascript mentor"
+        }
+    }
+]
